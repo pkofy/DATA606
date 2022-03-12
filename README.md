@@ -1,3 +1,3 @@
 # DATA606
-![Alt Text](/Images/DATA606wk5bLabPic1.png)
+![Alt Text](/tree/main/Images/DATA606wk5bLabPic1.png)
 /tree/main/Images
